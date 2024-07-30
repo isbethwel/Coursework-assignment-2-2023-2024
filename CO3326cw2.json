@@ -1,0 +1,43 @@
+{
+    "srn": "190252117",
+    "name": "JESSE PARKER",
+    "solution": {
+      "exercise1": {
+        "toAlice": {
+          "text": "3530e974ed7042ca2950cc207b670866fc54282a73858a416485b03a1a75ff42",
+          "cipher": "dcef310dfc841044d7a1fdb43b1a928e1d7c0cd09618e737e07a86168bebd7a9",
+          "r": {
+            "x": "554ff50a8cf2e75f33f52201c220311a8e48248ed2837aa9356a8a82e3c42c44",
+            "y": "4f0bfd14198522fc6291fce7e255a904dcc89153302d4aa863946bc122b377c0"
+          }
+        },
+        "toBob": {
+          "text": "c10e5afbaf790ab1ee25cb73c5f67d48762b8b10409843cbe2d9e493e09fc4f0",
+          "cipher": "854d9b8686e1e893fe913c4354f4ab829a13f9378c379cdf00b862f8c052f9a4",
+          "r": {
+            "x": "7d37f775bdc4ea704e676e9708409a176257c78d5a74dcb42c27442c6e52e1c5",
+            "y": "b16d06096e8507affdc0e15e4dcf06c13bd97db184271992d189e656465f55aa"
+          }
+        }
+      },
+      "exercise2": {
+        "fromAlice": {
+          "text": "3530e974ed7042ca2950cc207b670866fc54282a73858a416485b03a1a75ff42",
+          "cipher": "9616c5b9c2fe34e8c57a69a6a540c174246cbd6a4cd8582d3ea88f5803746d11",
+          "r": {
+            "x": "e999c469c44a1de86977fd402a6f18d2c6f820be967c4dd6081fccc520432836",
+            "y": "19fdc40ba79d1ed8dfc5c350301f0d02415e6d73439996b0a141c6c1ee5ba583"
+          }
+        },
+        "fromBob": {
+          "text": "c10e5afbaf790ab1ee25cb73c5f67d48762b8b10409843cbe2d9e493e09fc4f0",
+          "cipher": "b382f7987f8cd3a92582287e1b3e8c7fef3f33c998abc0230ea999d1b1adf293",
+          "r": {
+            "x": "1a4bad02f0e1c820f38f573c1d632b4e05cfb3fba4c0324e7af64d87a80c91d1",
+            "y": "ae27fe4532aca318fa94eb265d2d5c729d00eb833d86a5f38d30cebad8267d9d"
+          }
+        }
+      }
+    }
+  }
+  
